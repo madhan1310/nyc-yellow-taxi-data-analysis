@@ -7,8 +7,11 @@ The data is sampled from the NYC Taxi & Limousine Commission's publicly availabl
 Repository Contents:
 
 1. SQL code to import, clean and transform the raw CSV data Queries to analyze the data and derive insights.
-2. Summary of key findings from the analysis.
-3. Tables and visualizations created in Tableau.
+2. An ER diagram was developed originally using fact and dimension tables, but joins on large tables proved too slow for interactive analysis. Therefore, a 
+   simplified schema with one large table was used instead.
+3. Queries to analyze the data and derive insights
+4. Summary of key findings from the analysis.
+5. Tables and visualizations created in Tableau.
 
 Key Insights:
 
