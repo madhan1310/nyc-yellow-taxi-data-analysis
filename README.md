@@ -6,22 +6,21 @@ The data is sampled from the NYC Taxi & Limousine Commission's publicly availabl
 
 Contents:
 The repository contains the following:
-SQL code to import, clean and transform the raw CSV data
-Queries to analyze the data and derive insights
-Summary of key findings from the analysis
-Tables and visualizations created in Tableau
-Jupyter notebook walking through the analysis steps
+1. NYC Yellow Taxi trips data in csv.
+2. SQL code to import, clean and transform the raw CSV data Queries to analyze the data and derive insights.
+3. Summary of key findings from the analysis.
+4. Tables and visualizations created in Tableau.
 
 Key Insights:
-Most taxi rides occur during weekday rush hours, with different traffic patterns on weekends
-Manhattan generates majority of the taxi trips
-Short trips within a borough are most common, followed by trips between boroughs
-Average fare per mile is higher during nights and weekends
-Manhattan fares are highest, while outer borough fares are lower
+1. Most taxi rides occur during weekday rush hours, with different traffic patterns on weekends.
+2. Manhattan generates majority of the taxi trips.
+3. Short trips within a borough are most common, followed by trips between boroughs.
+4. Average fare per mile is higher during nights and weekends.
+5. Manhattan fares are highest, while outer borough fares are lower.
 
 Future Work:
 Potential areas for further analysis:
-Analyze data from other months and years for comparison
-Incorporate weather data to identify effects on taxi ridership
-Build predictive models for taxi demand
-Compare taxi usage with other transport modes like rideshare services
+1. Analyze data from other months and years for comparison.
+2. Incorporate weather data to identify effects on taxi ridership.
+3. Build predictive models for taxi demand.
+4. Compare taxi usage with other transport modes like rideshare services.
