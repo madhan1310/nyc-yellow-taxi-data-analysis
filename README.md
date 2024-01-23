@@ -4,14 +4,15 @@ This project performs an exploratory data analysis on the NYC Yellow Taxi trip r
 Data Source:
 The data is sampled from the NYC Taxi & Limousine Commission's publicly available trip record datasets. The original data files are very large, so a representative subset of the January 2015 Yellow taxi data is used for this analysis covering areas throughout New York City.
 
-Contents:
-   The repository contains the following:
+Repository Contents:
+
 1. NYC Yellow Taxi trips data in csv.
 2. SQL code to import, clean and transform the raw CSV data Queries to analyze the data and derive insights.
 3. Summary of key findings from the analysis.
 4. Tables and visualizations created in Tableau.
 
 Key Insights:
+
 1. Most taxi rides occur during weekday rush hours, with different traffic patterns on weekends.
 2. Manhattan generates majority of the taxi trips.
 3. Short trips within a borough are most common, followed by trips between boroughs.
@@ -19,7 +20,7 @@ Key Insights:
 5. Manhattan fares are highest, while outer borough fares are lower.
 
 Future Work:
-Potential areas for further analysis:
+
 1. Analyze data from other months and years for comparison.
 2. Incorporate weather data to identify effects on taxi ridership.
 3. Build predictive models for taxi demand.
