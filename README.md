@@ -5,7 +5,7 @@ Data Source:
 The data is sampled from the NYC Taxi & Limousine Commission's publicly available trip record datasets. The original data files are very large, so a representative subset of the January 2015 Yellow taxi data is used for this analysis covering areas throughout New York City.
 
 Contents:
-The repository contains the following:
+   The repository contains the following:
 1. NYC Yellow Taxi trips data in csv.
 2. SQL code to import, clean and transform the raw CSV data Queries to analyze the data and derive insights.
 3. Summary of key findings from the analysis.
